@@ -1,3 +1,15 @@
+"""Constants
+
+Constants values applied across the project.
+
+Values
+------
+
+DEBUG: integer
+    Debug level
+
+"""
+
 # ------------------------------------------------------------------------------
 #   Debug level constants
 # ------------------------------------------------------------------------------
